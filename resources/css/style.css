@@ -1,0 +1,40 @@
+body {
+  font-family: Helvitica, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+}
+
+.hero {
+  background-image: url("../images/the-flatiron-building.png");
+  color: white;
+}
+
+.nav_btn {
+  font-size: 18px;
+  color: white;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.hero h2 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.footer {
+  background-color: dimgray;
+  text-align: left;
+  font-size: 11px;
+}
